@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #b1b6bb;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9a9da5;
+}
+
+
+table td {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: bisque;
+    height: 1em;
+}
+
+p {
+    margin-top: 20px;
+}
